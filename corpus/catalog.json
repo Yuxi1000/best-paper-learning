@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "note": "Official Best / Outstanding papers only. Sources are author-posted arXiv PDFs. Excerpts are for personal study of writing and figure craft, not republication.",
+  "papers": [
+    {
+      "id": "vggt",
+      "title": "VGGT: Visual Geometry Grounded Transformer",
+      "award": "CVPR 2025 Best Paper",
+      "venue": "CVPR",
+      "year": 2025,
+      "arxiv": "2503.11651",
+      "paper_type": "method-system",
+      "topics": ["3d-reconstruction", "transformer", "multi-view"],
+      "use_for": ["architecture-figure", "system-method", "strong-abstract", "multi-task-claim"]
+    },
+    {
+      "id": "generative-image-dynamics",
+      "title": "Generative Image Dynamics",
+      "award": "CVPR 2024 Best Paper",
+      "venue": "CVPR",
+      "year": 2024,
+      "arxiv": "2309.07906",
+      "paper_type": "method-system",
+      "topics": ["generative", "video", "dynamics"],
+      "use_for": ["teaser", "qualitative-grid", "problem-reframing"]
+    },
+    {
+      "id": "richhf",
+      "title": "Rich Human Feedback for Text-to-Image Generation",
+      "award": "CVPR 2024 Best Paper",
+      "venue": "CVPR",
+      "year": 2024,
+      "arxiv": "2312.10240",
+      "paper_type": "dataset-method",
+      "topics": ["t2i", "human-feedback", "evaluation"],
+      "use_for": ["dataset-paper", "annotation-figure", "application-loop"]
+    },
+    {
+      "id": "visprog",
+      "title": "Visual Programming: Compositional Visual Reasoning Without Training",
+      "award": "CVPR 2023 Best Paper",
+      "venue": "CVPR",
+      "year": 2023,
+      "arxiv": "2211.11559",
+      "paper_type": "method-system",
+      "topics": ["neuro-symbolic", "vlm", "compositional-reasoning"],
+      "use_for": ["intuitive-method", "pipeline-figure", "no-training-claim"]
+    },
+    {
+      "id": "uniad",
+      "title": "Planning-Oriented Autonomous Driving",
+      "award": "CVPR 2023 Best Paper",
+      "venue": "CVPR",
+      "year": 2023,
+      "arxiv": "2212.10156",
+      "paper_type": "method-system",
+      "topics": ["autonomous-driving", "end-to-end", "planning"],
+      "use_for": ["task-reframing", "system-architecture", "metric-story"]
+    },
+    {
+      "id": "swin",
+      "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+      "award": "ICCV 2021 Best Paper (Marr Prize)",
+      "venue": "ICCV",
+      "year": 2021,
+      "arxiv": "2103.14030",
+      "paper_type": "method-architecture",
+      "topics": ["vision-transformer", "backbone"],
+      "use_for": ["architecture-figure", "inductive-bias-argument", "backbone-paper"]
+    },
+    {
+      "id": "brickgpt",
+      "title": "Generating Physically Stable and Buildable Brick Structures from Text",
+      "award": "ICCV 2025 Best Paper (Marr Prize)",
+      "venue": "ICCV",
+      "year": 2025,
+      "arxiv": "2505.05469",
+      "paper_type": "method-system",
+      "topics": ["3d-generation", "physics-constraint", "llm"],
+      "use_for": ["constraint-in-decoding", "qualitative", "dataset-plus-method"]
+    },
+    {
+      "id": "var",
+      "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+      "award": "NeurIPS 2024 Best Paper",
+      "venue": "NeurIPS",
+      "year": 2024,
+      "arxiv": "2404.02905",
+      "paper_type": "method-generative",
+      "topics": ["autoregressive", "image-generation", "scaling-laws"],
+      "use_for": ["paradigm-shift-claim", "scaling-plot", "headline-numbers"]
+    },
+    {
+      "id": "vit-registers",
+      "title": "Vision Transformers Need Registers",
+      "award": "ICLR 2024 Outstanding Paper",
+      "venue": "ICLR",
+      "year": 2024,
+      "arxiv": "2309.16588",
+      "paper_type": "analysis-method",
+      "topics": ["vit", "interpretability", "simple-fix"],
+      "use_for": ["observe-explain-fix", "feature-map-figure", "short-elegant-paper"]
+    },
+    {
+      "id": "never-train-from-scratch",
+      "title": "Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors",
+      "award": "ICLR 2024 Outstanding Paper",
+      "venue": "ICLR",
+      "year": 2024,
+      "arxiv": "2310.02980",
+      "paper_type": "empirical-science",
+      "topics": ["evaluation", "transformers-vs-ssm", "pretraining"],
+      "use_for": ["experimental-protocol", "negative-result-plus-fix", "fair-comparison"]
+    },
+    {
+      "id": "emergent-mirage",
+      "title": "Are Emergent Abilities of Large Language Models a Mirage?",
+      "award": "NeurIPS 2023 Outstanding Paper",
+      "venue": "NeurIPS",
+      "year": 2023,
+      "arxiv": "2304.15004",
+      "paper_type": "empirical-science",
+      "topics": ["llm", "evaluation", "scaling"],
+      "use_for": ["metric-critique", "reanalysis-figure", "claim-dismantling"]
+    },
+    {
+      "id": "shallow-safety",
+      "title": "Safety Alignment Should Be Made More Than Just a Few Tokens Deep",
+      "award": "ICLR 2025 Outstanding Paper",
+      "venue": "ICLR",
+      "year": 2025,
+      "arxiv": "2406.05946",
+      "paper_type": "analysis-method",
+      "topics": ["llm-safety", "alignment"],
+      "use_for": ["unifying-explanation", "case-study-structure", "mitigation-from-diagnosis"]
+    },
+    {
+      "id": "llm-finetuning-dynamics",
+      "title": "Learning Dynamics of LLM Finetuning",
+      "award": "ICLR 2025 Outstanding Paper",
+      "venue": "ICLR",
+      "year": 2025,
+      "arxiv": "2407.10490",
+      "paper_type": "analysis-theory",
+      "topics": ["finetuning", "dpo", "learning-dynamics"],
+      "use_for": ["mechanism-explanation", "theory-to-fix", "influence-analysis"]
+    },
+    {
+      "id": "privacy-auditing",
+      "title": "Privacy Auditing with One (1) Training Run",
+      "award": "NeurIPS 2023 Outstanding Paper",
+      "venue": "NeurIPS",
+      "year": 2023,
+      "arxiv": "2305.08846",
+      "paper_type": "theory-method",
+      "topics": ["differential-privacy", "auditing"],
+      "use_for": ["tight-problem-setup", "theory-to-algorithm", "practical-bound"]
+    },
+    {
+      "id": "stde",
+      "title": "Stochastic Taylor Derivative Estimator: Efficient Amortization for Arbitrary Differential Operators",
+      "award": "NeurIPS 2024 Best Paper",
+      "venue": "NeurIPS",
+      "year": 2024,
+      "arxiv": "2412.00088",
+      "paper_type": "theory-algorithm",
+      "topics": ["autodiff", "pinn", "scalability"],
+      "use_for": ["complexity-argument", "algorithm-paper", "headline-speedup"]
+    },
+    {
+      "id": "sedd",
+      "title": "Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution",
+      "award": "ICML 2024 Best Paper",
+      "venue": "ICML",
+      "year": 2024,
+      "arxiv": "2310.16834",
+      "paper_type": "method-theory",
+      "topics": ["discrete-diffusion", "generative"],
+      "use_for": ["objective-derivation", "discrete-generative", "theory-plus-scale"]
+    },
+    {
+      "id": "videopoet",
+      "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+      "award": "ICML 2024 Best Paper",
+      "venue": "ICML",
+      "year": 2024,
+      "arxiv": "2312.14125",
+      "paper_type": "method-system",
+      "topics": ["video-generation", "llm", "multimodal"],
+      "use_for": ["system-paper", "task-unification", "qualitative-video"]
+    },
+    {
+      "id": "sd3-rectified-flow",
+      "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+      "award": "ICML 2024 Best Paper",
+      "venue": "ICML",
+      "year": 2024,
+      "arxiv": "2403.03206",
+      "paper_type": "method-scaling",
+      "topics": ["rectified-flow", "diffusion-transformer", "scaling"],
+      "use_for": ["scaling-study", "architecture-ablation", "industrial-scale-writing"]
+    },
+    {
+      "id": "llm-debate",
+      "title": "Debating with More Persuasive LLMs Leads to More Truthful Answers",
+      "award": "ICML 2024 Best Paper",
+      "venue": "ICML",
+      "year": 2024,
+      "arxiv": "2402.06782",
+      "paper_type": "empirical-science",
+      "topics": ["llm", "debate", "oversight"],
+      "use_for": ["protocol-paper", "human-study", "claim-with-controls"]
+    },
+    {
+      "id": "train-for-the-worst",
+      "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+      "award": "ICML 2025 Outstanding Paper",
+      "venue": "ICML",
+      "year": 2025,
+      "arxiv": "2502.06768",
+      "paper_type": "analysis-theory",
+      "topics": ["masked-diffusion", "inference", "token-order"],
+      "use_for": ["train-test-mismatch", "theory-plus-simple-fix", "headline-jump"]
+    }
+  ]
+}

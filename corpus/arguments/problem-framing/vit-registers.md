@@ -1,0 +1,10 @@
+# Vision Transformers Need Registers
+
+- id: `vit-registers`
+- award: ICLR 2024 Outstanding Paper
+- section_bucket: problem-framing
+- source: arXiv:2309.16588
+
+## Excerpt (truncated; study the move, do not copy)
+
+Published as a conference paper at ICLR 2024 VISION TRANSFORMERS NEED REGISTERS Timoth´ee Darcet1,2 Maxime Oquab1 Julien Mairal2 Piotr Bojanowski1 1 FAIR, Meta 2 Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK, 38000 Grenoble, France ABSTRACT Transformers have recently emerged as a powerful tool for learning visual representations. In this paper, we identify and characterize artifacts in feature maps of both supervised and self-supervised ViT networks. The artifacts correspond to high-norm tokens appearing during inference primarily in low-informative background areas of images, that are repurposed for internal computations. We propose a simple yet effective solution based on providing additional tokens to the input sequence of the Vision Transformer to fill that role. We show that this solution fixes that problem entirely for both supervised and self-supervised models, sets a new state of the art for self-supervised visual models on dense visual prediction tasks, enables object discovery methods with larger models, and most importantly leads to smoother feature maps and attention maps for downstream visual processing. Without registers With registers Input DeiT-III OpenCLIP DINOv2 DeiT-III OpenCLIP DINOv2 Figure 1: Register tokens enable interpretable attention maps in all vision transformers, similar to the original DINO method (Caron et al., 2021). Attention maps are…

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "vggt",
+    "arxiv": "2503.11651",
+    "title": "VGGT: Visual Geometry Grounded Transformer",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "generative-image-dynamics",
+    "arxiv": "2309.07906",
+    "title": "Generative Image Dynamics",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "richhf",
+    "arxiv": "2312.10240",
+    "title": "Rich Human Feedback for Text-to-Image Generation",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "method-mechanism",
+      "problem-framing"
+    ]
+  },
+  {
+    "id": "visprog",
+    "arxiv": "2211.11559",
+    "title": "Visual Programming: Compositional visual reasoning without training",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "uniad",
+    "arxiv": "2212.10156",
+    "title": "Planning-oriented Autonomous Driving",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing"
+    ]
+  },
+  {
+    "id": "swin",
+    "arxiv": "2103.14030",
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "license": "",
+    "figures": 2,
+    "sections": [
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "brickgpt",
+    "arxiv": "2505.05469",
+    "title": "Generating Physically Stable and Buildable Brick Structures from Text",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "var",
+    "arxiv": "2404.02905",
+    "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "vit-registers",
+    "arxiv": "2309.16588",
+    "title": "Vision Transformers Need Registers",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "never-train-from-scratch",
+    "arxiv": "2310.02980",
+    "title": "Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors",
+    "license": "",
+    "figures": 0,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "method-mechanism",
+      "problem-framing"
+    ]
+  },
+  {
+    "id": "emergent-mirage",
+    "arxiv": "2304.15004",
+    "title": "Are Emergent Abilities of Large Language Models a Mirage?",
+    "license": "",
+    "figures": 8,
+    "sections": [
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "shallow-safety",
+    "arxiv": "2406.05946",
+    "title": "Safety Alignment Should Be Made More Than Just a Few Tokens Deep",
+    "license": "",
+    "figures": 7,
+    "sections": [
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "llm-finetuning-dynamics",
+    "arxiv": "2407.10490",
+    "title": "Learning Dynamics of LLM Finetuning",
+    "license": "",
+    "figures": 9,
+    "sections": [
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing"
+    ]
+  },
+  {
+    "id": "privacy-auditing",
+    "arxiv": "2305.08846",
+    "title": "Privacy Auditing with One (1) Training Run",
+    "license": "",
+    "figures": 0,
+    "sections": [
+      "claim-contribution",
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "stde",
+    "arxiv": "2412.00088",
+    "title": "Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators",
+    "license": "",
+    "figures": 1,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing"
+    ]
+  },
+  {
+    "id": "sedd",
+    "arxiv": "2310.16834",
+    "title": "Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution",
+    "license": "",
+    "figures": 2,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "videopoet",
+    "arxiv": "2312.14125",
+    "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "claim-contribution",
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "sd3-rectified-flow",
+    "arxiv": "2403.03206",
+    "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+    "license": "",
+    "figures": 16,
+    "sections": [
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing"
+    ]
+  },
+  {
+    "id": "llm-debate",
+    "arxiv": "2402.06782",
+    "title": "Debating with More Persuasive LLMs Leads to More Truthful Answers",
+    "license": "",
+    "figures": 10,
+    "sections": [
+      "claim-contribution",
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing",
+      "related-work"
+    ]
+  },
+  {
+    "id": "train-for-the-worst",
+    "arxiv": "2502.06768",
+    "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+    "license": "",
+    "figures": 5,
+    "sections": [
+      "experiment-result",
+      "front-matter",
+      "limitation-scope",
+      "method-mechanism",
+      "problem-framing"
+    ]
+  }
+]

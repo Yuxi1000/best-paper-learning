@@ -1,0 +1,210 @@
+[
+  {
+    "id": "vggt",
+    "present": false,
+    "start_page": null,
+    "appendix_pages": 0,
+    "genres": [],
+    "n_sections": 0
+  },
+  {
+    "id": "generative-image-dynamics",
+    "present": false,
+    "start_page": null,
+    "appendix_pages": 0,
+    "genres": [],
+    "n_sections": 0
+  },
+  {
+    "id": "richhf",
+    "present": true,
+    "start_page": 12,
+    "appendix_pages": 8,
+    "genres": [
+      "failure-cases"
+    ],
+    "n_sections": 1
+  },
+  {
+    "id": "visprog",
+    "present": true,
+    "start_page": 12,
+    "appendix_pages": 2,
+    "genres": [
+      "hyperparams-implementation"
+    ],
+    "n_sections": 3
+  },
+  {
+    "id": "uniad",
+    "present": true,
+    "start_page": 13,
+    "appendix_pages": 12,
+    "genres": [
+      "hyperparams-implementation",
+      "other",
+      "proofs"
+    ],
+    "n_sections": 17
+  },
+  {
+    "id": "swin",
+    "present": false,
+    "start_page": null,
+    "appendix_pages": 0,
+    "genres": [],
+    "n_sections": 0
+  },
+  {
+    "id": "brickgpt",
+    "present": true,
+    "start_page": 13,
+    "appendix_pages": 4,
+    "genres": [
+      "failure-cases",
+      "hyperparams-implementation",
+      "other"
+    ],
+    "n_sections": 4
+  },
+  {
+    "id": "var",
+    "present": false,
+    "start_page": null,
+    "appendix_pages": 0,
+    "genres": [],
+    "n_sections": 0
+  },
+  {
+    "id": "vit-registers",
+    "present": true,
+    "start_page": 12,
+    "appendix_pages": 10,
+    "genres": [
+      "other"
+    ],
+    "n_sections": 1
+  },
+  {
+    "id": "never-train-from-scratch",
+    "present": true,
+    "start_page": 11,
+    "appendix_pages": 9,
+    "genres": [
+      "other"
+    ],
+    "n_sections": 1
+  },
+  {
+    "id": "emergent-mirage",
+    "present": true,
+    "start_page": 12,
+    "appendix_pages": 3,
+    "genres": [
+      "proofs"
+    ],
+    "n_sections": 1
+  },
+  {
+    "id": "shallow-safety",
+    "present": true,
+    "start_page": 14,
+    "appendix_pages": 12,
+    "genres": [
+      "datasets-protocol"
+    ],
+    "n_sections": 1
+  },
+  {
+    "id": "llm-finetuning-dynamics",
+    "present": true,
+    "start_page": 16,
+    "appendix_pages": 26,
+    "genres": [
+      "datasets-protocol",
+      "other"
+    ],
+    "n_sections": 2
+  },
+  {
+    "id": "privacy-auditing",
+    "present": true,
+    "start_page": 16,
+    "appendix_pages": 31,
+    "genres": [
+      "proofs"
+    ],
+    "n_sections": 1
+  },
+  {
+    "id": "stde",
+    "present": true,
+    "start_page": 12,
+    "appendix_pages": 20,
+    "genres": [
+      "hyperparams-implementation"
+    ],
+    "n_sections": 1
+  },
+  {
+    "id": "sedd",
+    "present": true,
+    "start_page": 12,
+    "appendix_pages": 19,
+    "genres": [
+      "datasets-protocol",
+      "extra-experiments",
+      "hyperparams-implementation",
+      "other"
+    ],
+    "n_sections": 15
+  },
+  {
+    "id": "videopoet",
+    "present": true,
+    "start_page": 13,
+    "appendix_pages": 8,
+    "genres": [
+      "hyperparams-implementation",
+      "other"
+    ],
+    "n_sections": 13
+  },
+  {
+    "id": "sd3-rectified-flow",
+    "present": true,
+    "start_page": 17,
+    "appendix_pages": 12,
+    "genres": [
+      "datasets-protocol",
+      "hyperparams-implementation",
+      "other"
+    ],
+    "n_sections": 10
+  },
+  {
+    "id": "llm-debate",
+    "present": true,
+    "start_page": 31,
+    "appendix_pages": 42,
+    "genres": [
+      "datasets-protocol",
+      "hyperparams-implementation",
+      "other",
+      "proofs"
+    ],
+    "n_sections": 31
+  },
+  {
+    "id": "train-for-the-worst",
+    "present": true,
+    "start_page": 12,
+    "appendix_pages": 10,
+    "genres": [
+      "datasets-protocol",
+      "other",
+      "proofs"
+    ],
+    "n_sections": 10
+  }
+]
